@@ -1,0 +1,102 @@
+class_name,standard_grams,kcal,protein_g,carbs_g,fat_g,usda_source
+apple_pie,150.0,444.0,4.05,56.33,22.92,"USDA FNDDS fdc_id 2707995: Pie, apple"
+baby_back_ribs,105.0,266.7,17.03,12.74,15.88,"USDA FNDDS fdc_id 2705894: Pork, ribs"
+baklava,80.0,352.0,5.26,30.04,23.47,USDA FNDDS fdc_id 2708044: Baklava
+beef_carpaccio,169.0,365.0,29.49,0.57,26.36,USDA FNDDS fdc_id 2706394: Steak tartare
+beef_tartare,169.0,365.0,29.49,0.57,26.36,USDA FNDDS fdc_id 2706394: Steak tartare
+beet_salad,68.0,29.2,1.09,6.5,0.12,"USDA FNDDS fdc_id 2709770: Beets, raw"
+beignets,45.0,187.7,2.46,24.16,9.08,USDA FNDDS fdc_id 2708071: Beignet
+bibimbap,121.0,92.0,6.66,9.81,2.95,"USDA FNDDS fdc_id 2708950: Bibimbap, Korean"
+bread_pudding,100.0,156.0,5.6,23.53,4.86,"USDA FNDDS fdc_id 2705680: Pudding, bread"
+breakfast_burrito,180.0,448.2,19.64,36.11,24.68,USDA FNDDS fdc_id 2707343: Egg burrito
+bruschetta,43.0,73.5,1.84,9.17,3.27,USDA FNDDS fdc_id 2707652: Bruschetta
+caesar_salad,79.0,60.8,3.16,5.92,2.69,"USDA FNDDS fdc_id 2709591: Caesar salad, with romaine, no dressing"
+cannoli,70.0,191.8,6.94,10.81,13.43,"USDA FNDDS fdc_id 2708726: Pastry, cheese-filled"
+caprese_salad,80.0,111.2,5.74,3.09,8.7,"USDA FNDDS fdc_id 2705818: Mozzarella cheese, tomato, and basil, with oil and vinegar dressing"
+carrot_cake,200.0,748.0,4.98,103.6,35.04,"USDA FNDDS fdc_id 2707859: Cake or cupcake, carrot"
+ceviche,125.0,78.8,13.16,4.47,0.95,USDA FNDDS fdc_id 2706463: Ceviche
+cheesecake,175.0,698.2,9.26,60.94,46.41,"USDA FNDDS fdc_id 2707861: Cheesecake, plain"
+cheese_plate,21.0,80.0,4.35,0.91,6.56,"USDA FNDDS fdc_id 2705704: Cheese, NFS"
+chicken_curry,240.0,256.8,15.55,15.7,15.55,USDA FNDDS fdc_id 2706437: Chicken curry
+chicken_quesadilla,140.0,401.8,20.23,38.25,18.19,"USDA FNDDS fdc_id 2708593: Quesadilla, chicken"
+chicken_wings,88.0,276.3,15.87,11.12,18.54,"USDA FNDDS fdc_id 2706078: Chicken ""wings"", plain, from other sources"
+chocolate_cake,65.0,196.9,3.3,28.13,8.61,"USDA FNDDS fdc_id 2707868: Cake or cupcake, chocolate, no icing"
+chocolate_mousse,85.0,180.2,3.57,13.8,12.85,USDA FNDDS fdc_id 2705698: Mousse
+churros,45.0,188.6,2.72,21.99,9.99,USDA FNDDS fdc_id 2708070: Churros
+clam_chowder,255.0,237.2,7.96,23.59,12.24,"USDA FNDDS fdc_id 2707139: Soup, New England clam chowder"
+club_sandwich,130.0,288.6,19.6,30.02,9.72,USDA FNDDS fdc_id 2706993: Club sandwich on white
+crab_cakes,85.0,181.9,12.24,3.81,12.72,"USDA FNDDS fdc_id 2706549: Crab, cake"
+creme_brulee,130.0,146.9,5.28,23.2,3.68,USDA FNDDS fdc_id 2705684: Creme brulee
+croque_madame,135.0,287.6,19.01,30.28,10.07,"USDA FNDDS fdc_id 2706965: Ham sandwich on white, with cheese"
+cup_cakes,90.0,316.8,2.56,48.24,13.29,"USDA FNDDS fdc_id 2707853: Cake or cupcake, NFS"
+deviled_eggs,30.0,59.4,3.46,0.32,4.77,"USDA FNDDS fdc_id 2707181: Egg, deviled"
+donuts,75.0,319.5,4.14,37.14,17.14,"USDA FNDDS fdc_id 2708062: Doughnut, NFS"
+dumplings,75.0,84.8,5.17,8.3,3.45,"USDA FNDDS fdc_id 2708708: Wonton, dumpling or pot sticker, steamed"
+edamame,80.0,112.0,9.23,6.9,6.06,"USDA FNDDS fdc_id 2707436: Edamame, cooked"
+eggs_benedict,155.0,446.4,21.41,13.14,34.26,"USDA FNDDS fdc_id 2707180: Egg, Benedict"
+escargots,85.0,121.5,13.72,5.73,4.42,"USDA FNDDS fdc_id 2706339: Clams, NFS"
+falafel,28.0,143.9,2.32,8.11,11.53,USDA FNDDS fdc_id 2707408: Falafel
+filet_mignon,160.0,313.6,48.74,0.0,13.2,"USDA FNDDS fdc_id 2705841: Beef, steak, tenderloin"
+fish_and_chips,140.0,303.8,18.93,16.41,17.47,"USDA FNDDS fdc_id 2706244: Fish, cod, fried"
+foie_gras,85.0,170.8,11.43,5.57,11.13,"USDA FNDDS fdc_id 2706155: Liver, paste or pate"
+french_fries,145.0,452.4,4.97,60.09,21.36,"USDA FNDDS fdc_id 2709461: Potato, french fries, fast food"
+french_onion_soup,245.0,264.6,13.35,29.01,10.95,"USDA FNDDS fdc_id 2710108: Soup, French onion"
+french_toast,65.0,177.4,6.73,21.02,7.4,"USDA FNDDS fdc_id 2708335: French toast, plain"
+fried_calamari,85.0,198.9,11.7,11.95,11.24,"USDA FNDDS fdc_id 2706334: Calamari, fried"
+fried_rice,198.0,344.5,7.6,64.35,6.32,"USDA FNDDS fdc_id 2708952: Rice, fried, NFS"
+frozen_yogurt,160.0,203.2,4.8,34.56,5.76,"USDA FNDDS fdc_id 2705451: Frozen yogurt, NFS"
+garlic_bread,79.0,275.7,6.59,32.9,13.1,"USDA FNDDS fdc_id 2707626: Garlic bread, NFS"
+gnocchi,188.0,253.8,4.59,32.34,11.9,"USDA FNDDS fdc_id 2708722: Gnocchi, potato"
+greek_salad,105.0,50.4,2.89,4.57,2.37,"USDA FNDDS fdc_id 2709830: Greek Salad, no dressing"
+grilled_cheese_sandwich,116.0,397.9,12.79,32.58,24.1,"USDA FNDDS fdc_id 2705801: Grilled cheese sandwich, NFS"
+grilled_salmon,140.0,362.6,36.29,0.0,23.07,"USDA FNDDS fdc_id 2706287: Fish, salmon, grilled"
+guacamole,60.0,93.0,1.17,5.07,8.51,"USDA FNDDS fdc_id 2709307: Guacamole, NFS"
+gyoza,75.0,144.0,6.57,10.54,8.35,"USDA FNDDS fdc_id 2708705: Wonton, dumpling or pot sticker, fried"
+hamburger,145.0,417.6,25.39,29.99,20.85,"USDA FNDDS fdc_id 2706920: Hamburger, NFS"
+hot_and_sour_soup,245.0,95.5,6.32,10.66,2.96,"USDA FNDDS fdc_id 2707136: Soup, hot and sour"
+hot_dog,102.0,301.9,11.07,24.2,17.72,"USDA FNDDS fdc_id 2707056: Hot dog sandwich, NFS, on white bun"
+huevos_rancheros,236.0,285.6,15.76,20.89,15.69,USDA FNDDS fdc_id 2707191: Huevos rancheros
+hummus,60.0,145.8,4.41,8.94,10.26,"USDA FNDDS fdc_id 2707402: Hummus, plain"
+ice_cream,120.0,265.2,4.28,31.63,13.56,"USDA FNDDS fdc_id 2705629: Ice cream, NFS"
+lasagna,206.0,286.3,15.35,33.31,10.24,USDA FNDDS fdc_id 2708750: Lasagna with meat
+lobster_bisque,255.0,191.2,5.81,15.04,12.27,"USDA FNDDS fdc_id 2707140: Soup, bisque"
+lobster_roll_sandwich,180.0,388.8,17.8,31.03,21.15,USDA FNDDS fdc_id 2707039: Seafood salad sandwich
+macaroni_and_cheese,230.0,512.9,19.96,53.08,24.15,USDA FNDDS fdc_id 2708811: Macaroni or noodles with cheese
+macarons,24.0,110.4,0.72,14.69,5.41,"USDA FNDDS fdc_id 2707936: Cookie, macaroon"
+miso_soup,245.0,58.8,5.41,5.63,2.08,"USDA FNDDS fdc_id 2707455: Soup, miso or tofu"
+mussels,85.0,92.7,12.8,3.97,2.41,USDA FNDDS fdc_id 2706350: Mussels
+nachos,250.0,662.5,19.0,59.62,39.62,"USDA FNDDS fdc_id 2708576: Nachos, NFS"
+omelette,110.0,203.5,12.74,1.0,16.5,"USDA FNDDS fdc_id 2707198: Egg omelet or scrambled egg, NS as to fat"
+onion_rings,120.0,422.4,5.03,47.93,23.78,USDA FNDDS fdc_id 2710055: Fried onion rings
+oysters,85.0,43.4,4.85,2.31,1.45,"USDA FNDDS fdc_id 2706351: Oysters, raw"
+pad_thai,200.0,308.0,16.26,28.72,15.0,"USDA FNDDS fdc_id 2708804: Pad Thai, NFS"
+paella,300.0,507.0,28.59,47.31,21.51,"USDA FNDDS fdc_id 2706723: Paella, NFS"
+pancakes,100.0,282.0,7.41,35.32,12.07,"USDA FNDDS fdc_id 2708294: Pancakes, NFS"
+panna_cotta,130.0,126.1,6.6,14.26,4.73,USDA FNDDS fdc_id 2705682: Custard
+peking_duck,85.0,130.9,4.52,5.5,10.0,"USDA FNDDS fdc_id 2706141: Duck, Peking"
+pho,245.0,188.7,14.23,13.72,8.16,"USDA FNDDS fdc_id 2707124: Soup, pho, with meat"
+pizza,97.0,255.1,11.55,27.94,10.74,"USDA FNDDS fdc_id 2708612: Pizza, cheese, from frozen, thin crust"
+pork_chop,120.0,219.6,33.0,0.0,9.06,"USDA FNDDS fdc_id 2705866: Pork, chop, NS as to fat eaten"
+poutine,222.0,577.2,7.39,66.07,31.57,"USDA FNDDS fdc_id 2709465: Potato, french fries, with cheese, fast food / restaurant"
+prime_rib,60.0,123.6,17.45,0.0,5.83,"USDA FNDDS fdc_id 2705847: Beef, roast"
+pulled_pork_sandwich,180.0,437.4,26.95,44.75,15.89,"USDA FNDDS fdc_id 2706975: Barbecue pork sandwich, on white bun"
+ramen,245.0,311.1,17.47,34.18,11.2,"USDA FNDDS fdc_id 2709153: Ramen bowl, NFS"
+ravioli,160.0,296.0,16.48,31.82,11.15,"USDA FNDDS fdc_id 2708760: Ravioli, NS as to filling, no sauce"
+red_velvet_cake,200.0,710.0,5.58,108.72,29.16,"USDA FNDDS fdc_id 2707884: Cake or cupcake, red velvet"
+risotto,230.0,285.2,6.88,58.01,2.76,USDA FNDDS fdc_id 2709080: Flavored rice mixture with cheese
+samosa,100.0,310.0,5.14,33.16,17.47,USDA FNDDS fdc_id 2708730: Samosa
+sashimi,85.0,79.9,14.64,0.0,1.99,"USDA FNDDS fdc_id 2706223: Fish, raw"
+scallops,85.0,91.8,13.01,3.43,2.46,"USDA FNDDS fdc_id 2706357: Scallops, grilled"
+seaweed_salad,100.0,54.0,2.91,11.44,0.42,"USDA FNDDS fdc_id 2710100: Seaweed, pickled"
+shrimp_and_grits,240.0,170.4,2.86,29.28,4.42,"USDA FNDDS fdc_id 2708363: Grits, NFS"
+spaghetti_bolognese,250.0,367.5,19.02,33.35,17.75,"USDA FNDDS fdc_id 2708825: Pasta with tomato-based sauce, cheese and meat"
+spaghetti_carbonara,250.0,532.5,14.18,38.52,35.25,"USDA FNDDS fdc_id 2708861: Pasta with cream sauce and meat, restaurant"
+spring_rolls,64.0,174.1,4.85,17.29,9.41,"USDA FNDDS fdc_id 2708702: Egg roll, with beef and/or pork"
+steak,160.0,366.4,43.2,0.0,20.61,"USDA FNDDS fdc_id 2705824: Beef, steak, NFS"
+strawberry_shortcake,175.0,374.5,5.79,70.16,8.28,"USDA FNDDS fdc_id 2707896: Cake, strawberry shortcake"
+sushi,180.0,169.2,5.26,33.1,1.21,"USDA FNDDS fdc_id 2708959: Sushi, NFS"
+tacos,105.0,258.3,16.08,16.4,14.24,"USDA FNDDS fdc_id 2708514: Taco, NFS"
+takoyaki,85.0,192.1,11.26,11.38,11.02,USDA FNDDS fdc_id 2706331: Octopus
+tiramisu,175.0,617.8,9.89,51.52,41.76,USDA FNDDS fdc_id 2705702: Tiramisu
+tuna_tartare,85.0,92.7,20.74,0.0,0.42,"USDA FNDDS fdc_id 2706308: Fish, tuna, raw"
+waffles,75.0,279.8,6.53,31.12,14.12,"USDA FNDDS fdc_id 2708325: Waffle, plain"
