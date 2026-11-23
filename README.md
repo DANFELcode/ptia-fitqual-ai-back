@@ -2,6 +2,8 @@
 
 Backend del proyecto **FitQual AI** (estimación de calorías a partir de una foto de comida) de la materia Principios y Tecnologías de IA (PTIA), Escuela Colombiana de Ingeniería.
 
+**Entrega final (Hito 3):** [Video de presentación y demo del MVP](https://youtu.be/YQqdyIhd7so) · [Notebook de entrenamiento y evaluación](notebooks/fitqual_entrenamiento_final.ipynb)
+
 Recibe una foto, reconoce el plato entre 101 categorías (Food-101) y calcula calorías, proteína, carbohidratos y grasa a partir de una tabla USDA.
 
 - Frontend (React + Vite): https://github.com/JUDAMUCH03/ptia-fitqual-ai-front
